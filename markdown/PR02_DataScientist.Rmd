@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 S22 Project 02"
-author: "Author: YOUR NAME HERE"
+author: "Author: Cindy Candelario Jose"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,38 +12,39 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: The name of the person interviewed is Will Kurt. 
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: I decided to choose the interview with Will Kurt based on the short description of the episode. From the description, he did not begin his career path in data science, but in English and Literature instead. So I wanted to know what influenced his change from English to data science. 
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Yes, Will Kurt considers himself a data scientist. 
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: Growing up, Kurt did not see himself as a technical or mathematical person meaning his interests did not align with either discipline. His interests were more centered around English and Literature. His experience and education with data science began while working at a library at MIT. While studying in Boston to get his library science degree, he took a computer science class that exposed him to elements of data science. His job at the library in Boston introduced him to machine learning. Most of his experience with data science began in college. Throughout their conversation, it seemed like most of his experience with data science was self-taught as he incorporated his interests at the time. For example, when working at the library, he learned how machine learning is beneficial for librarians to maintain the upkeep of the entire library. 
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: His data science career did not begin until after graduating with his Library and Information Science degree. After graduating, he moved to Boston, where he worked as a research librarian. As a research librarian, he found out how helpful machine learning could be included in his work to make it easier. He did not give a detailed timeline of events after graduating with his Library & Information Science degree but mentioned he has worked for a variety of companies, both public and private. 
 
 **Q6: What programs/technologies to they use when working in data science?**
 
-ANSWER:
+ANSWER: Kurt mentioned he uses at least three programming languages in a given week. The program he uses is dependent on what tools are needed to complete the work. Some of the programming languages he mentioned include R, Python, and Scala. He emphasized his use of R when needing to look through data and crunch numbers. 
+
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: He mostly talked about his career path and advice for those pursuing or wanting to learn about data science. There was a brief mention of work he did when working for the government I found interesting. He mentioned that his job helped re-identify anonymous information. There was not much mentioned about his job duties during this time. He also discussed his blog which he goes into discussing probability theory. 
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: His explanation behind learning how to read a math book was helpful. His approach is different from what I learned growing up. Instead of reading a math book that did not fit his learning style, he chose the most interesting. He would read the book and stop when he found something inspiring or challenging to approach. He would solve problems and continue until he felt knowledgeable. His approach allows him to learn the topic more clearly and at his pace. As opposed to simply reading definitions and solving problems with little understanding as to why a problem needs to be solved. 
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: He discussed the importance of realizing you do not know everything and being open to learning more. Specifically, he mentioned there was a point when learning software that he felt he knew everything about the topic but in reality did not. He said it was okay to have moments where you realize you do not know everything about a topic. Hearing him express this concern was relieving. The feeling of not knowing everything about a topic or subject is frightening, especially when you are studying the topic. Sometimes I feel intimated by math because I feel the need to be an expert and know everything despite still learning.
 
 ***
